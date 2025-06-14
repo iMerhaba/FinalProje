@@ -18,14 +18,14 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.4-CL-35576357"
 LogCsvProfiler: Display: Metadata set : engineversion="5.4.4-35576357+++UE5+Release-5.4"
-LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26200.5641] "
-LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i7-12700H"
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.5965] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i5-12400"
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
-LogCsvProfiler: Display: Metadata set : commandline="" D:\finalproje\FinalProje\FinalSonDeneme\FinalSonDeneme.uproject""
-LogCsvProfiler: Display: Metadata set : loginid="8ac44e824bdf6f59af6b39b4a3fe237e"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/PC/Desktop/finalProje/FinalProje/FinalSonDeneme/FinalSonDeneme.uproject -AUTH_LOGIN=unused -AUTH_PASSWORD=8c7a29724c9e47cc8113a160628f7bcb -AUTH_TYPE=exchangecode -epicapp=UE_5.4 -epicenv=Prod -EpicPortal -epicusername=BabanınBabası -epicuserid=aaf63089aa35482eb516a948ca41689b -epiclocale=tr -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : loginid="efca91054b1590a0c72c1fb2181dca00"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogStats: Stats thread started at 0.268908
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
@@ -55,6 +55,7 @@ LogPluginManager: Mounting Engine plugin Fab
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin RenderGraphInsights
 LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin AISupport
@@ -232,6 +233,7 @@ LogPluginManager: Mounting Engine plugin MetaHumanProjectUtilities
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
+LogConfig: Display: Loading VisionOS ini files took 0.03 seconds
 LogEOSSDK: Initializing EOSSDK Version:1.16.3-32303053
 LogInit: Using libcurl 8.4.0
 LogInit:  - built for Windows
@@ -265,12 +267,12 @@ LogStudioTelemetry: Started StudioTelemetry Session
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.4-CL-35576357
 LogInit: Platform=WindowsEditor
-LogInit: MachineId=8ac44e824bdf6f59af6b39b4a3fe237e
+LogInit: MachineId=efca91054b1590a0c72c1fb2181dca00
 LogInit: DeviceId=
 LogInit: Engine Version: 5.4.4-35576357+++UE5+Release-5.4
 LogInit: Compatible Engine Version: 5.4.0-33043543+++UE5+Release-5.4
 LogInit: Net CL: 33043543
-LogInit: OS: Windows 11 (24H2) [10.0.26200.5641] (), CPU: 12th Gen Intel(R) Core(TM) i7-12700H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: OS: Windows 10 (22H2) [10.0.19045.5965] (), CPU: 12th Gen Intel(R) Core(TM) i5-12400, GPU: NVIDIA GeForce RTX 3060
 LogInit: Compiled (64-bit): Aug 16 2024 04:10:34
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.38.33130.00
