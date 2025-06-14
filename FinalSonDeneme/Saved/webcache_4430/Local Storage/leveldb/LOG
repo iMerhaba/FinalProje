@@ -1,2 +1,3 @@
-2025/06/14-13:14:13.708 4424 Creating DB C:/Users/Erdem/Desktop/Anime_(Darbe)Odev/FinalProje/FinalSonDeneme/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/06/14-13:14:13.721 4424 Reusing MANIFEST C:/Users/Erdem/Desktop/Anime_(Darbe)Odev/FinalProje/FinalSonDeneme/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/14-13:38:37.687 47f8 Reusing MANIFEST C:/Users/Erdem/Desktop/Anime_(Darbe)Odev/FinalProje/FinalSonDeneme/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/14-13:38:37.688 47f8 Recovering log #3
+2025/06/14-13:38:37.688 47f8 Reusing old log C:/Users/Erdem/Desktop/Anime_(Darbe)Odev/FinalProje/FinalSonDeneme/Saved/webcache_4430\Local Storage\leveldb/000003.log 
