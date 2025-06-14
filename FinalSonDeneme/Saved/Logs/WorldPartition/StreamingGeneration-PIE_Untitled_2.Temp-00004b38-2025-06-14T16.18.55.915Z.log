@@ -1,0 +1,43 @@
+[+] Containers:
+ |- [+] Container: /Temp/Untitled_2
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:A0DE6D824FBF341324B739B0B8BF2A2D BaseClass:/Game/blueprint/NewBlueprint.NewBlueprint_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_10FFE07BD4B4067202_2012154936 Label:NewBlueprint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1539.953 Y=-3602.580 Z=-619.069), Max=(X=3525.303 Y=3702.276 Z=2643.885) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D36ED3CF487DF3E0E5DD49A44B5BA847 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_10FFE07BD4B4067202_2070455937 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2505.549 Y=3014.108 Z=423.279), Max=(X=2585.549 Y=3094.108 Z=607.279) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F1E90709498BE3C4598F0781D6B25312 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:A0DE6D824FBF341324B739B0B8BF2A2D BaseClass:/Game/blueprint/NewBlueprint.NewBlueprint_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_10FFE07BD4B4067202_2012154936 Label:NewBlueprint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1539.953 Y=-3602.580 Z=-619.069), Max=(X=3525.303 Y=3702.276 Z=2643.885) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:D36ED3CF487DF3E0E5DD49A44B5BA847 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_10FFE07BD4B4067202_2070455937 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2505.549 Y=3014.108 Z=423.279), Max=(X=2585.549 Y=3094.108 Z=607.279) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:F1E90709498BE3C4598F0781D6B25312 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=1539.953 Y=-3602.580 Z=-619.069), Max=(X=3525.303 Y=3702.276 Z=2643.885)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Temp/Untitled_2
+----------------------------------------------------------------------------------------------------------------
+Untitled - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Untitled Persistent Level
+ |- Always loaded Actor Count: 2 
+ |- Actor Path: /Temp/Untitled_2.Untitled:PersistentLevel.PlayerStart_UAID_10FFE07BD4B4067202_2070455937
+ |- Actor Package: /Temp/__ExternalActors__/Untitled_2/C/4G/5KJ87UEK9ME1VEZ75LPYVB
+ |- Actor Path: /Temp/Untitled_2.Untitled:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Temp/__ExternalActors__/Untitled_2/2/WO/6AGKX4LON02NRP4ISWUY2E
+
+----------------------------------------------------------------------------------------------------------------
+Untitled - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell Untitled_2_MainPartition_0_0_0_0 (4DQWQCU9WL973DY2LF3VQI3D4)
+ |- Actor Count: 1
+ |- [+] /Temp/Untitled_2.Untitled:PersistentLevel.NewBlueprint_C_UAID_10FFE07BD4B4067202_2012154936
+ |   |-         Package: /Temp/__ExternalActors__/Untitled_2/A/F2/BU7FS2AQ5KRHRRUT3IOF0E
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A0DE6D824FBF341324B739B0B8BF2A2D
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
